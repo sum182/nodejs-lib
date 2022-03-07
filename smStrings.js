@@ -8,7 +8,7 @@ function logConsoleHighlighted(str){
     função para exibir logs destacado
   */
   console.log(strColorConsoleYellow,str);  
-  console.log(strColorConsoleReset,'');  
+  console.log(strColorConsoleReset,''); 
 }
 
 
